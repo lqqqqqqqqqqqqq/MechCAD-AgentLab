@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "task_id": "GRIP-001",
+  "native": "model.FCStd",
+  "step": "model.step",
+  "bom": "bom.csv",
+  "drawing": "drawing.svg",
+  "roles": {
+    "workpiece": "Z0002",
+    "right_support": "Z0005",
+    "left_support": "Z0010",
+    "base": "Z0038",
+    "front_rod": "Z0022",
+    "rear_rod": "Z0025",
+    "left_jaw": "Z0028",
+    "right_jaw": "Z0033"
+  },
+  "drivers": {
+    "opening": {
+      "kind": "spreadsheet",
+      "object": "Z0001",
+      "cell": "E7"
+    }
+  },
+  "provenance": {
+    "kind": "published_development_example",
+    "independent_codex_run": false,
+    "source_case": "A"
+  }
+}

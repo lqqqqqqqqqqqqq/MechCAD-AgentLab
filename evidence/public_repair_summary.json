@@ -1,0 +1,12 @@
+{
+  "kind": "controller_development_public_feedback_demo",
+  "independent_codex_run": false,
+  "before": "FAIL",
+  "after": "PASS",
+  "parameter_before_mm": 39,
+  "parameter_after_mm": 40,
+  "hidden_feedback_used": false,
+  "instruction_decided_before_hidden_results": true,
+  "saved_state_consistency": true,
+  "note": "Detailed private grading rules and raw execution logs are intentionally omitted"
+}

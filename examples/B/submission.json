@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "task_id": "SLIDE-001",
+  "native": "model.FCStd",
+  "step": "model.step",
+  "bom": "bom.csv",
+  "drawing": "drawing.svg",
+  "roles": {
+    "base": "K0002",
+    "left_support": "K0007",
+    "right_support": "K0012",
+    "front_rod": "K0017",
+    "rear_rod": "K0020",
+    "carriage": "K0023"
+  },
+  "drivers": {
+    "position": {
+      "kind": "spreadsheet",
+      "object": "K0001",
+      "cell": "B2"
+    }
+  },
+  "provenance": {
+    "kind": "published_development_example",
+    "independent_codex_run": false,
+    "source_case": "B"
+  }
+}

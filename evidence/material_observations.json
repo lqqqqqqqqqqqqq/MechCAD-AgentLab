@@ -1,0 +1,57 @@
+{
+  "observation": "Closed material cavities in saved native solids",
+  "parts": [
+    {
+      "role": "base",
+      "name": "K0002",
+      "native_volume_mm3": 126869.02664470767,
+      "closed_inner_shells": []
+    },
+    {
+      "role": "left_support",
+      "name": "K0007",
+      "native_volume_mm3": 15794.690350851266,
+      "closed_inner_shells": []
+    },
+    {
+      "role": "right_support",
+      "name": "K0012",
+      "native_volume_mm3": 15794.690350851266,
+      "closed_inner_shells": []
+    },
+    {
+      "role": "front_rod",
+      "name": "K0017",
+      "native_volume_mm3": 7238.229473870881,
+      "closed_inner_shells": []
+    },
+    {
+      "role": "rear_rod",
+      "name": "K0020",
+      "native_volume_mm3": 7238.229473870883,
+      "closed_inner_shells": []
+    },
+    {
+      "role": "carriage",
+      "name": "K0023",
+      "native_volume_mm3": 54157.128208807066,
+      "closed_inner_shells": [
+        {
+          "volume_mm3": 0.00040212385965948216,
+          "bounds_mm": [
+            94.96,
+            95.04,
+            20.54,
+            20.619999999999997,
+            40.96,
+            41.04
+          ]
+        }
+      ]
+    }
+  ],
+  "native_sha256": "14093da168c19596dec38dafcfddc275211e3359ed18c10af9b5e584472f8779",
+  "original_unchanged": true,
+  "formal_engineering_verdict": null,
+  "source": "Public geometric observation; no frozen grading input"
+}

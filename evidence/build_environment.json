@@ -1,0 +1,14 @@
+{
+  "freecad": "1.1.4",
+  "python_native": "3.11.14",
+  "occt": "7.8.1",
+  "web_python": "3.13.5",
+  "candidate_scorer": "0.4.0-rc2",
+  "native_runtime": "1.2.0-rc1",
+  "web_tests_passed": 50,
+  "native_protocol_tests_passed": 29,
+  "formal_benchmark_frozen": false,
+  "formal_runs": 0,
+  "expert_certified_labels": 0,
+  "new_independent_codex_runs_in_portfolio_phase": 0
+}

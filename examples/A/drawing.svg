@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700mm" height="450mm" viewBox="0 0 700 450"><text x="30" y="70">TOP</text><g data-view="TOP" transform="translate(30,180) rotate(0)"><g><g fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.0" transform="scale(1, -1)">
+<path id="1" d=" M 122 26 L 102 26 " />
+<path id="2" d=" M 38 26 L 18 26 " />
+<path id="3" d=" M 122 18 L 102 18 " />
+<path id="4" d=" M 90 18 L 50 18 " />
+<path id="5" d=" M 38 18 L 18 18 " />
+<path id="6" d=" M 122 62 L 102 62 " />
+<path id="7" d=" M 90 62 L 50 62 " />
+<path id="8" d=" M 38 62 L 18 62 " />
+<path id="9" d=" M 122 54 L 102 54 " />
+<path id="10" d=" M 38 54 L 18 54 " />
+</g>
+<g fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.0" transform="scale(1, -1)">
+<path id="1" d=" M 50 20 L 90 20 " />
+<path id="2" d=" M 90 20 L 90 60 " />
+<path id="3" d=" M 90 60 L 50 60 " />
+<path id="4" d=" M 50 60 L 50 20 " />
+<path id="5" d=" M 122 10 L 132 10 " />
+<path id="6" d=" M 122 70 L 122 10 " />
+<path id="7" d=" M 132 10 L 132 70 " />
+<path id="8" d=" M 132 70 L 122 70 " />
+<path id="9" d=" M 8 10 L 18 10 " />
+<path id="10" d=" M 8 70 L 8 10 " />
+<path id="11" d=" M 18 10 L 18 70 " />
+<path id="12" d=" M 18 70 L 8 70 " />
+<path id="13" d=" M 0.04 0 L 140 0 " />
+<path id="14" d=" M 0.04 5.32907e-15 L 1.77636e-15 0.04 " />
+<path id="15" d=" M 140 0 L 140 80 " />
+<path id="16" d=" M 0 80 L 0 0.04 " />
+<path id="17" d=" M 140 80 L 0 80 " />
+<circle cx="14" cy="5" r="3" /><circle cx="126" cy="5" r="3" /><circle cx="14" cy="75" r="3" /><circle cx="126" cy="75" r="3" /><path id="22" d=" M 38 10 L 50 10 " />
+<path id="23" d=" M 38 70 L 38 10 " />
+<path id="24" d=" M 50 10 L 50 70 " />
+<path id="25" d=" M 50 70 L 38 70 " />
+<path id="26" d=" M 90 10 L 102 10 " />
+<path id="27" d=" M 90 70 L 90 10 " />
+<path id="28" d=" M 102 10 L 102 70 " />
+<path id="29" d=" M 102 70 L 90 70 " />
+</g>
+</g></g><text x="30" y="250">FRONT</text><g data-view="FRONT" transform="translate(30,360) rotate(90)"><g><g fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.0" transform="scale(1, -1)">
+<path id="1" d=" M -30 122 L -30 102 " />
+<path id="2" d=" M -30 90 L -30 50 " />
+<path id="3" d=" M -30 38 L -30 18 " />
+</g>
+<g fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.0" transform="scale(1, -1)">
+<path id="1" d=" M -38 50 L -38 90 " />
+<path id="2" d=" M -78 50 L -78 90 " />
+<path id="3" d=" M -10 122 L -38 122 " />
+<path id="4" d=" M -10 132 L -38 132 " />
+<path id="5" d=" M -38 122 L -38 132 " />
+<path id="6" d=" M -10 8 L -38 8 " />
+<path id="7" d=" M -10 18 L -38 18 " />
+<path id="8" d=" M -38 8 L -38 18 " />
+<path id="9" d=" M 0 0.04 L 0 140 " />
+<path id="10" d=" M 0 0.04 L -10 0.04 " />
+<path id="11" d=" M 0 140 L -10 140 " />
+<path id="12" d=" M -10 0.04 L -10 140 " />
+<path id="13" d=" M 0 0.04 L 0 1.77636e-15 " />
+<path id="14" d=" M 0 0 L -10 0 " />
+<path id="15" d=" M -10 0.04 L -10 1.77636e-15 " />
+<path id="16" d=" M -22 18 L -22 38 " />
+<path id="17" d=" M -22 50 L -22 90 " />
+<path id="18" d=" M -22 102 L -22 122 " />
+<path id="19" d=" M -10 38 L -78 38 " />
+<path id="20" d=" M -10 50 L -78 50 " />
+<path id="21" d=" M -78 38 L -78 50 " />
+<path id="22" d=" M -10 90 L -78 90 " />
+<path id="23" d=" M -10 102 L -78 102 " />
+<path id="24" d=" M -78 90 L -78 102 " />
+</g>
+</g></g><text x="400" y="250">SIDE</text><g data-view="SIDE" transform="translate(400,360) rotate(-90)"><g><g fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.0" transform="scale(1, -1)">
+<path id="1" d=" M 10 -10 L 38 -10 " />
+<path id="2" d=" M 38 -10 L 38 -70 " />
+<path id="3" d=" M 10 -70 L 38 -70 " />
+<circle cx="26" cy="-22" r="4" /><circle cx="26" cy="-58" r="4" /><path id="6" d=" M 0 0 L 10 0 " />
+<path id="7" d=" M 0 0 L 0 -80 " />
+<path id="8" d=" M 0 -80 L 10 -80 " />
+<path id="9" d=" M 10 0 L 10 -80 " />
+<circle cx="26" cy="-22" r="4" /><circle cx="26" cy="-58" r="4" /><path id="12" d=" M 38 -10 L 78 -10 " />
+<path id="13" d=" M 78 -10 L 78 -70 " />
+<path id="14" d=" M 38 -70 L 78 -70 " />
+</g>
+</g></g><text x="20" y="420">140.000 x 80.000 x 78.000 mm</text></svg>

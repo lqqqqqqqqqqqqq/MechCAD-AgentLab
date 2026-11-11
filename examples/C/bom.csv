@@ -1,0 +1,9 @@
+role,object,quantity,volume_mm3
+base,Base,1,110869.026644708
+left_support,leftSupport,1,15794.690350851
+right_support,rightSupport,1,15794.690350851
+front_rod,Rod0,1,6232.919824722
+rear_rod,Rod1,1,6232.919824722
+left_jaw,leftJaw,1,41008.304556539
+right_jaw,rightJaw,1,41008.304556539
+workpiece,Workpiece,1,64000.000000000

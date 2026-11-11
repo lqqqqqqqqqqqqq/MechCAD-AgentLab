@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-11-11T14:41:28.453247+00:00",
+  "cases": [
+    {
+      "case": "A",
+      "parts": 8,
+      "rotation": true,
+      "visibility": true,
+      "fit": true
+    },
+    {
+      "case": "B",
+      "parts": 6,
+      "rotation": true,
+      "visibility": true,
+      "fit": true
+    },
+    {
+      "case": "C",
+      "parts": 8,
+      "rotation": true,
+      "visibility": true,
+      "fit": true
+    }
+  ],
+  "page_errors": [],
+  "all_passed": true,
+  "actual_browser": true,
+  "headless": true,
+  "desktop_control": false,
+  "recording": false,
+  "grading_simulated": false,
+  "note": "Static showcase displays recorded outcomes and actual prederived meshes; it does not execute grading"
+}

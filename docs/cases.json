@@ -1,0 +1,38 @@
+[
+  {
+    "id": "A",
+    "title": "合格CAD：原生参数化夹爪",
+    "explanation": "Sketcher/Body/Pad/Pocket合法替代模型。查看实体、参数与逐项PASS证据；不代表制造或专家认证。",
+    "task_id": "GRIP-001",
+    "recorded_engineering_result": "PASS",
+    "triangles": 7172,
+    "parts": 8,
+    "native_sha256": "70dd29b33bb59270a2665771345f8b7a5e722832391f786410134311453a84b0",
+    "origin": "controller_mutation",
+    "mesh": "models/A.json"
+  },
+  {
+    "id": "B",
+    "title": "缺陷CAD：孔旁封闭缺料",
+    "explanation": "贯通孔本身存在，孔旁封闭空腔违反材料要求。外观难以判断，查看FAIL规则和内部缺料证据。",
+    "task_id": "SLIDE-001",
+    "recorded_engineering_result": "FAIL",
+    "triangles": 6718,
+    "parts": 6,
+    "native_sha256": "14093da168c19596dec38dafcfddc275211e3359ed18c10af9b5e584472f8779",
+    "origin": "controller_mutation",
+    "mesh": "models/B.json"
+  },
+  {
+    "id": "C",
+    "title": "公开反馈修复：开口39→40mm",
+    "explanation": "公开几何检查测得39mm，依公开合同40mm生成修复指令；控制者安全改参、重导出、独立核验，冻结评分FAIL→PASS。不是独立Codex反馈实验。",
+    "task_id": "GRIP-001",
+    "recorded_engineering_result": "FAIL → PASS",
+    "triangles": 1600,
+    "parts": 8,
+    "native_sha256": "6b065664d09fd4b9fca9a756e43b4cabc7be912735888ff4d0c64f3e976f3a55",
+    "origin": "controller_development_public_feedback_demo",
+    "mesh": "models/C.json"
+  }
+]

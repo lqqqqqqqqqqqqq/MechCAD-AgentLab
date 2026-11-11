@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "task_id": "GRIP-001",
+  "overall": "FAIL",
+  "grading_visibility": "public",
+  "provenance": {
+    "phase": "public_preflight",
+    "origin": "development_sample"
+  },
+  "checks": [
+    {
+      "rule_id": "public.opening_default",
+      "status": "FAIL",
+      "critical": true,
+      "observation": {
+        "measured_mm": 39.0
+      },
+      "criterion": {
+        "expected": 40,
+        "tolerance_mm": 0.05
+      },
+      "evidence": {
+        "native_sha256": "5d7642db2b8dcc8614720e78ef32b031ba180c7d492078a73c363328ada45d2f",
+        "source": "public GRIP-001 contract"
+      }
+    }
+  ],
+  "scope": "One public default-opening check only; not full engineering acceptance"
+}

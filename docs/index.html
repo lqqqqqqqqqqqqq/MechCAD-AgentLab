@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>MechCAD-AgentLab · 真实CAD工程评测作品</title><link rel="stylesheet" href="style.css"></head>
+<body><header><a class="brand" href="./">M / MechCAD-AgentLab</a><nav><a href="https://github.com/lqqqqqqqqqqqqq/MechCAD-AgentLab">GitHub</a><a href="https://github.com/lqqqqqqqqqqqqq/MechCAD-AgentLab/blob/main/docs/PORTFOLIO_REPORT.md">项目报告 ↗</a></nav></header>
+<main><p class="eyebrow">NATIVE CAD · EVIDENCE · PUBLIC PORTFOLIO</p><h1>让机械 CAD 的正确性，<br>有可复核的工程证据。</h1><p class="intro">从真实原生工件出发，观察结构、工程违例和反馈修复。下方模型可旋转、缩放、平移与按零件隐藏。</p>
+<div class="notice">公开展示版：真实工件派生网格 + 已记录结果。在线页面不执行 CAD 重算，也不模拟工程评分。</div>
+<section class="card"><div class="heading"><div><p class="eyebrow">01 / INTERACTIVE CAD</p><h2 id="title">正在加载模型…</h2></div><select id="case" aria-label="选择实际案例"></select></div>
+<p id="description"></p><div class="viewer"><div id="stage"></div><aside><h3>零件显示</h3><div id="parts"></div></aside></div>
+<div class="actions"><button id="fit">居中 / 适配</button><button id="all">显示全部</button><span id="result"></span></div><p id="status">模型由保存的FCStd派生，网格不作为工程判定依据。</p><p class="hint">左键旋转 · 滚轮缩放 · 右键平移。首次加载请稍候；资源全部来自本仓库。</p></section>
+<section class="grid"><article class="card"><p class="eyebrow">02 / WHAT IS CHECKED</p><h2>检查真实工程交付</h2><p>实体与材料占据、孔的完整空域、接触与干涉、原生参数驱动、STEP/BOM/SVG 的保存状态关联。</p><p>结果分为 PASS、FAIL、UNSUPPORTED 和 ERROR，程序完成与模型合格分别记录。</p></article><article class="card"><p class="eyebrow">03 / FEEDBACK REPAIR</p><h2>公开反馈：39 → 40 mm</h2><p>公开检查测得39mm，依据公开40mm要求固定修复指令，修改新副本并完整重导出，再执行真实核查。</p><p>这是开发期控制者演示，不是独立Codex反馈实验。</p></article></section>
+<section class="card"><p class="eyebrow">04 / BOUNDARIES</p><h2>有限支持，如实记录</h2><p>已有6道实际任务，另24道为蓝图。专家标签仍为0，正式72次实验未启动。未宣称实物制造、机械专家认证或连续全行程可靠性。</p><p>完整本地平台的真实运行截图、评分器原理和失败说明见项目报告；私有规则、认证和原始私有日志不在公开仓库中。</p></section>
+<footer>FreeCAD / OCCT 原生几何 · Three.js 浏览器展示 · 本项目自建工程验收与证据流程</footer></main><script type="module" src="viewer.js"></script></body></html>
