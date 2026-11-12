@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-11T14:42:21.951762+00:00",
+  "created_at": "2026-11-12T08:47:25.288453+00:00",
   "edition": "public_portfolio",
   "files_sha256": {
     ".gitignore": "001a42d42c05988a28c479d31f1765725f202a8a5d3b2d3a8f376282a3db00ed",
@@ -7,7 +7,7 @@
     "THIRD_PARTY_NOTICES.md": "cf405d41fbe6a473259e1ad759576b3f5a3ceed19a7340987367059e94b93ae7",
     "docs/.nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "docs/cases.json": "8eed9426a6680a22293783a47dca2500885d6676ec0dd76a3fd8639c14767532",
-    "docs/index.html": "719651c8d7240772fac92fcd00794d0ee10a38859802c04e095fe0e47be742a2",
+    "docs/index.html": "32cf525385fdde993b6dc9fbba0cb0f7b0c785787c71519e87c97f2e7ba3f0cc",
     "docs/PORTFOLIO_REPORT.md": "1a3bbc4ad7e4fc3e80fb88e78f224f881d839933d5ea50321430581617614824",
     "docs/style.css": "7cf866188716362aa94891f6d26f7fc1f8692ee276f593e2604054f57a415bbd",
     "docs/viewer.js": "0ab0a32b9c89f58f3d32b684c7b30aa462557a60aa7ae43db2ff39e3a08d6b1e",
@@ -58,7 +58,7 @@
     "docs/vendor/three/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
   },
   "file_count": 54,
-  "total_bytes": 4776523,
+  "total_bytes": 4776753,
   "audit_passed": true,
   "excludes": [
     "host authentication",
